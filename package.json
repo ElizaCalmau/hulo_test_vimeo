@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@vimeo/player": "^2.21.0",
+    "@vimeo/vimeo": "^3.0.2",
+    "jquery": "^3.7.1"
+  }
+}
